@@ -1,5 +1,5 @@
 import numpy as np
-
+# COMENT FROM GIT
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
 

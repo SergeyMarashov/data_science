@@ -22,6 +22,7 @@ def game_core_v3(number: int = 1) -> int:
         elif number < predict:
             interval = (interval[0], predict)
 
+
     # Ваш код заканчивается здесь
 
     return count

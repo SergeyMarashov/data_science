@@ -22,31 +22,39 @@
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
 **Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
+Результаты оцениваются по среднему количеству попыток при 1000 повторений. Необходимо добиться минимального количества попыток.
 
 **Что практикуем**     
-Учимся писать хороший код на python
-
+Учимся писать хороший код на python.
+Учимся работать с IDE.
+Учимся работать с GitHub.
 
 ### Краткая информация о данных
-....
+Ссылка на Colab Notebook https://colab.research.google.com/drive/1vByqaWx6UiJ9CKWp9YOhetYF_t7dBAsL
   
-:arrow_up:[к оглавлению]((https://github.com/SergeyMarashov/data_science/tree/main/project_0/README.md#Оглавление))
+:arrow_up:[к оглавлению](https://github.com/SergeyMarashov/data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+1.	Изучение материала
+2.	Разработка алгоритма угадывания по результатам ответов
+3.	Написание кода
+4.	Комментирование кода 
+5.	Приведение кода к стандарту PEP8.
+
 
 :arrow_up:[к оглавлению](https://github.com/SergeyMarashov/data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
-....
+Удалось добиться результата угадывания в среднем за 5 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/SergeyMarashov/data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Получил опыт работы с IDE VS Code. 
+Познакомился с GitHub его возможностями. 
+Нашел, как мне кажется, элегантное решение задачи по угадыванию числа.
 
 :arrow_up:[к оглавлению](https://github.com/SergeyMarashov/data_science/tree/main/project_0/README.md#Оглавление)

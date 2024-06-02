@@ -11,7 +11,6 @@ def game_core_v3(number: int = 1) -> int:
     # Ваш код начинается здесь
     count = 0
     interval = [1, 101]
-    predict = sum(interval) // 2
     while True:
         count += 1
         predict = sum(interval) // 2

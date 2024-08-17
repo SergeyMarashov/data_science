@@ -5,4 +5,5 @@ test
 * [Проект 1. Анализ оттока клиентов банка](https://github.com/SergeyMarashov/data_science/tree/main/Project_1)
 * [Проект 2. ________________]
 
-## Ссылка на резюме
+## Ссылка на резюме 
+Кликни [сюда](https://github.com/SergeyMarashov) чтобы перейти

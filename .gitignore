@@ -5,7 +5,7 @@ __pycache__/
 local.txt
 # C extensions
 *.so
-
+dst-3.0_16_1_hh_database.csv
 # Distribution / packaging
 .Python
 build/

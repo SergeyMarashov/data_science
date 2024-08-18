@@ -1,5 +1,5 @@
 # My Data Science projects
-test
+
 ## Проекты:
 * [Проект 00. Игра: угадай число](https://github.com/SergeyMarashov/data_science/tree/main/project_00)
 * [Проект 01. Анализ оттока клиентов банка](https://github.com/SergeyMarashov/data_science/tree/main/Project_01)

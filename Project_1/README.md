@@ -26,7 +26,8 @@
 3. разведывательный анализ
 4. очистка данных
 
-- Решение представлено по ссылке: [Module_13](https://colab.research.google.com/drive/1UPfRN1VG8wf9RNew1ZiwB2edDVM0ITi4#scrollTo=m8i8cZ_bP5t9)
+- Решение представлено по ссылке: [Проект](https://github.com/SergeyMarashov/data_science/blob/main/Project_1/Project-1._Ноутбук-шаблон.ipynb)
+- Ссылка на данные : [Дата-сет](https://drive.google.com/file/d/1xynywQ7ZvUWv5OrPg7OXmxdeNonp3Sc9/view?usp=sharing)
 
 **Условия кейса:**  
 - Каждая часть будет состоять из блока практических заданий, которые нам необходимо выполнить в своих jupyter-ноутбуках, и контрольных вопросов на платформе, отвечая на которые мы сможем проверить верность своего решения. Задания выполняются последовательно.
